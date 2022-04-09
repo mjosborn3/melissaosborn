@@ -1,0 +1,12 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: rgb(155, 49, 141);
+}
+li{
+    font-style:italic;
+}
+a{
+    text-decoration: underline;
+}
